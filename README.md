@@ -38,6 +38,4 @@ Markdown é uma linguagem de marcação leve que permite formatar texto de forma
 * **Imagens:** Use `![texto alternativo](URL da imagem)` para inserir imagens.
 * **Código:** Use ` ` para código inline e \`\`\` para blocos de código.
 
-## Explore este Repositório
-
-Sinta-se à vontade para explorar este repositório e aprender mais sobre os projetos e códigos aqui presentes. Em caso de dúvidas, entre em contato! 😊
+![memegit](https://github.com/user-attachments/assets/8f9f4234-11ca-454c-9f07-b56788c12d62)
